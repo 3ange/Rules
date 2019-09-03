@@ -1,0 +1,6 @@
+# > Steam
+DOMAIN-SUFFIX,fanatical.com,PROXY
+DOMAIN-SUFFIX,humblebundle.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,steamcommunity.com,PROXY
+DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN-SUFFIX,steamstatic.com,PROXY
