@@ -3,9 +3,9 @@ DOMAIN,abematv.akamaized.net,AbemaTV
 DOMAIN,ds-linear-abematv.akamaized.net,AbemaTV
 DOMAIN,ds-vod-abematv.akamaized.net,AbemaTV
 DOMAIN,linear-abematv.akamaized.net,AbemaTV
-DOMAIN,abm.hayabusa.media,AbemaTV
-DOMAIN,api-abematv.bucketeer.jp,AbemaTV
-DOMAIN,abema.adx.promo,AbemaTV
+DOMAIN-SUFFIX,abm.hayabusa.media,AbemaTV
+DOMAIN-SUFFIX,api-abematv.bucketeer.jp,AbemaTV
+DOMAIN-SUFFIX,abema.adx.promo,AbemaTV
 DOMAIN-SUFFIX,abema.io,AbemaTV
 DOMAIN-SUFFIX,abema.tv,AbemaTV
 DOMAIN-SUFFIX,ameba.jp,AbemaTV
