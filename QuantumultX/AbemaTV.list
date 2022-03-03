@@ -7,7 +7,7 @@ DOMAIN,abm.hayabusa.media,AbemaTV
 DOMAIN,api-abematv.bucketeer.jp,AbemaTV
 DOMAIN,abema.adx.promo,AbemaTV
 DOMAIN,chesterstream.akamaized.net,AbemaTV
-DOMAIN-SUFFIX,youboranqs01.com,AbemaTV
+DOMAIN-KEYWORD,youboranqs01,AbemaTV
 DOMAIN-SUFFIX,abema.io,AbemaTV
 DOMAIN-SUFFIX,abema.tv,AbemaTV
 DOMAIN-SUFFIX,ameba.jp,AbemaTV
