@@ -1,13 +1,14 @@
 USER-AGENT,AbemaTV*,AbemaTV
+DOMAIN-KEYWORD,akamaized,AbemaTV
+DOMAIN-KEYWORD,youboranqs01,AbemaTV
 DOMAIN,abematv.akamaized.net,AbemaTV
 DOMAIN,ds-linear-abematv.akamaized.net,AbemaTV
 DOMAIN,ds-vod-abematv.akamaized.net,AbemaTV
+DOMAIN,vod-abematv.akamaized.net,AbemaTV
 DOMAIN,linear-abematv.akamaized.net,AbemaTV
 DOMAIN,abm.hayabusa.media,AbemaTV
 DOMAIN,api-abematv.bucketeer.jp,AbemaTV
 DOMAIN,abema.adx.promo,AbemaTV
-DOMAIN-KEYWORD,akamaized,AbemaTV
-DOMAIN-KEYWORD,youboranqs01,AbemaTV
 DOMAIN-SUFFIX,abema.io,AbemaTV
 DOMAIN-SUFFIX,abema.tv,AbemaTV
 DOMAIN-SUFFIX,ameba.jp,AbemaTV
