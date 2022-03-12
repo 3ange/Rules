@@ -21,8 +21,29 @@ payload:
   - DOMAIN-SUFFIX,linear-abematv.akamaized.net
   - DOMAIN-SUFFIX,vod-abematv.akamaized.net
   - DOMAIN-SUFFIX,winticket.jp
+  - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-KEYWORD,youboranqs01
+  - DOMAIN,abm.hayabusa.media,AbemaTV
+  - DOMAIN,api-abematv.bucketeer.jp,AbemaTV
+  - DOMAIN,abema.adx.promo,AbemaTV
+  - DOMAIN,a-fds.youborafds01,AbemaTV
   # > DMM
   - PROCESS-NAME,com.dmm.app.movieplayer
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dmm.com
   - DOMAIN-SUFFIX,dmm-extension.com
+  # > Hulu / フールー
+  - PROCESS-NAME,jp.happyon.android
+  - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,hjholdings.jp
+  - DOMAIN-SUFFIX,hulu.jp
+  # NAME: Niconico
+  - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,nicodic.jp
+  - DOMAIN-SUFFIX,nicomanga.jp
+  - DOMAIN-SUFFIX,niconico.com
+  - DOMAIN-SUFFIX,nicoseiga.jp
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,simg.jp
+  - DOMAIN-SUFFIX,socdm.com
