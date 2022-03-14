@@ -80,3 +80,9 @@ payload:
   - DOMAIN-SUFFIX,showtime.co.jp
   - DOMAIN-SUFFIX,viber.co.jp
   - DOMAIN-SUFFIX,viber.com
+  # NAME: Mercari
+  - DOMAIN,jp.mercari.com
+  - DOMAIN,api.mercari.jp
+  - DOMAIN,o118814.ingest.sentry.io
+  - DOMAIN-SUFFIX,mercdn.net
+  - DOMAIN-SUFFIX,mercari.com
