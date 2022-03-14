@@ -12,17 +12,21 @@ DOMAIN,abema.adx.promo,AbemaTV
 DOMAIN,a-fds.youborafds01,AbemaTV
 DOMAIN-SUFFIX,abema.io,AbemaTV
 DOMAIN-SUFFIX,abema.tv,AbemaTV
+DOMAIN-SUFFIX,adx.promo,AbemaTV
 DOMAIN-SUFFIX,ameba.jp,AbemaTV
-DOMAIN-SUFFIX,hayabusa.io,AbemaTV
 DOMAIN-SUFFIX,ameba.jp,AbemaTV
 DOMAIN-SUFFIX,amebame.com,AbemaTV
 DOMAIN-SUFFIX,amebaownd.com,AbemaTV
 DOMAIN-SUFFIX,amebaowndme.com,AbemaTV
 DOMAIN-SUFFIX,ameblo.jp,AbemaTV
 DOMAIN-SUFFIX,bucketeer.jp,AbemaTV
+DOMAIN-SUFFIX,dokusho-ojikan.jp,AbemaTV
+DOMAIN-SUFFIX,hayabusa.io,AbemaTV
+DOMAIN-SUFFIX,hayabusa.dev,AbemaTV
+DOMAIN-SUFFIX,hayabusa.media,AbemaTV
 DOMAIN,d1otoma47x30pg.cloudfront.net,AbemaTV
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net,AbemaTV
-DOMAIN-SUFFIX,dokusho-ojikan.jp,AbemaTV
+
 
 
 DOMAIN,jp.mercari.com,AbemaTV
