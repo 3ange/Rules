@@ -1,5 +1,9 @@
 payload:
   # > AbemaTV
+  - DOMAIN,abm.hayabusa.media,AbemaTV
+  - DOMAIN,api-abematv.bucketeer.jp,AbemaTV
+  - DOMAIN,abema.adx.promo,AbemaTV
+  - DOMAIN,a-fds.youborafds01,AbemaTV
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
   - DOMAIN-SUFFIX,abematv.akamaized.net
@@ -23,10 +27,7 @@ payload:
   - DOMAIN-SUFFIX,winticket.jp
   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-KEYWORD,youboranqs01
-  - DOMAIN,abm.hayabusa.media,AbemaTV
-  - DOMAIN,api-abematv.bucketeer.jp,AbemaTV
-  - DOMAIN,abema.adx.promo,AbemaTV
-  - DOMAIN,a-fds.youborafds01,AbemaTV
+
   # > DMM
   - PROCESS-NAME,com.dmm.app.movieplayer
   - DOMAIN-SUFFIX,dmm.co.jp
