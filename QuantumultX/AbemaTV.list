@@ -1,6 +1,5 @@
 USER-AGENT,AbemaTV*,AbemaTV
-DOMAIN-KEYWORD,akamaized,AbemaTV
-DOMAIN-KEYWORD,youboranqs01,AbemaTV
+
 DOMAIN,abematv.akamaized.net,AbemaTV
 DOMAIN,ds-linear-abematv.akamaized.net,AbemaTV
 DOMAIN,ds-vod-abematv.akamaized.net,AbemaTV
@@ -26,6 +25,8 @@ DOMAIN-SUFFIX,dokusho-ojikan.jp,AbemaTV
 DOMAIN-SUFFIX,hayabusa.io,AbemaTV
 DOMAIN-SUFFIX,hayabusa.dev,AbemaTV
 DOMAIN-SUFFIX,hayabusa.media,AbemaTV
+DOMAIN-KEYWORD,akamaized,AbemaTV
+DOMAIN-KEYWORD,youboranqs01,AbemaTV
 
 
 
