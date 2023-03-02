@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,youboranqs01
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,abema-tv
 DOMAIN,jp.mercari.com
 DOMAIN,api.mercari.jp
 DOMAIN,o118814.ingest.sentry.io
