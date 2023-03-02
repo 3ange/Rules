@@ -14,6 +14,9 @@ DOMAIN,license.theoplayer.com
 DOMAIN,cs.gssprt.jp
 DOMAIN,a-fds.youborafds01.com
 DOMAIN,bam.nr-data.net
+DOMAIN,tr.line.me
+DOMAIN,am.yahoo.co.jp
+DOMAIN,ad.as.amanad.adtdp.com
 DOMAIN,vid.vidoomy.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -30,9 +33,6 @@ DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.dev
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,winticket.jp
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,yahoo.co.jp
-DOMAIN-SUFFIX,ad.as.amanad.adtdp.com
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,youboranqs01
 DOMAIN-KEYWORD,abema
