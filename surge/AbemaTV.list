@@ -10,6 +10,10 @@ DOMAIN,abema.adx.promo
 DOMAIN,a-fds.youborafds01
 DOMAIN,d1otoma47x30pg.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,license.theoplayer.com
+DOMAIN,cs.gssprt.jp
+DOMAIN,a-fds.youborafds01.com
+DOMAIN,bam.nr-data.net
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,adx.promo
@@ -29,6 +33,7 @@ DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,youboranqs01
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,abema-tv
+DOMAIN-KEYWORD,kaizenplatform
 DOMAIN,jp.mercari.com
 DOMAIN,api.mercari.jp
 DOMAIN,o118814.ingest.sentry.io
