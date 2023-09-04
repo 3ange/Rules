@@ -33,3 +33,5 @@
   - DOMAIN-SUFFIX,d.meituan.net
   - DOMAIN-SUFFIX,speedv6.m.jd.com
   - DOMAIN-SUFFIX,zhuishudashi.net
+  - DOMAIN-KEYWORD,myunidays
+  - DOMAIN-KEYWORD,unidays
