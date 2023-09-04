@@ -1,0 +1,35 @@
+  - DOMAIN-KEYWORD,push.apple.com
+  - DOMAIN, identity.apple.com
+  - IP-CIDR, 17.249.0.0/16, no-resolve
+  - IP-CIDR, 17.252.0.0/16, no-resolve
+  - IP-CIDR, 17.57.144.0/22, no-resolve
+  - IP-CIDR, 17.188.128.0/18, no-resolve
+  - IP-CIDR, 17.188.20.0/23, no-resolve
+  - IP-CIDR6, 2620:149:a44::/48, no-resolve
+  - IP-CIDR6, 2403:300:a42::/48, no-resolve
+  - IP-CIDR6, 2403:300:a51::/48, no-resolve
+  - IP-CIDR6, 2a01:b740:a42::/48, no-resolve
+  - DOMAIN,time.apple.com
+  - DOMAIN-KEYWORD,weather-edge.apple.com
+  - DOMAIN-KEYWORD,weather-adge.apple.com
+  - DOMAIN-SUFFIX,weather-data.apple.com
+  - DOMAIN-SUFFIX,weather-map.apple.com
+  - DOMAIN-SUFFIX,weather-analytics-events.apple.com
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
+  - DOMAIN-KEYWORD,icloud.com
+  - DOMAIN-KEYWORD,api.smoot.apple.com
+  - DOMAIN-KEYWORD,api.smoot.apple.cn
+  - DOMAIN,init.ess.apple.com
+  - DOMAIN-KEYWORD,ssl.apple.com
+  - DOMAIN-KEYWORD,humb.apple.com
+  - DOMAIN,smp-device-content.apple.com
+  - DOMAIN-KEYWORD,api-adservices.apple.com
+  - DOMAIN-KEYWORD,ls.apple.com
+  - DOMAIN-KEYWORD,gsa.apple.com
+  - DOMAIN-KEYWORD,ess.apple.com
+  - DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+  - DOMAIN-KEYWORD,aw-s.tripcdn.com
+  - DOMAIN-KEYWORD,trip.com
+  - DOMAIN-SUFFIX,d.meituan.net
+  - DOMAIN-SUFFIX,speedv6.m.jd.com
+  - DOMAIN-SUFFIX,zhuishudashi.net
