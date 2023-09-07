@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN,api.smoot.apple.com
+  - DOMAIN-SUFFIX,ess.apple.com
+  - DOMAIN-SUFFIX,push-apple.com.akadns.net
+  - DOMAIN-SUFFIX,lcdn-locator.apple.com
+  - DOMAIN-SUFFIX,lcdn-registration.apple.com
+  - DOMAIN-SUFFIX,ls.apple.com
+  - PROCESS-NAME,trustd
+  - PROCESS-NAME,netbiosd
